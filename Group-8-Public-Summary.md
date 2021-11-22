@@ -1,4 +1,4 @@
-# Climate Change and Coral Reefs: The Past, Present, and Future
+# Climate Change and Coral Reefs: Understanding the Past to Act in the Present and Prepare for the Future
 
 ## Group 8: Muhammad Amjad, Kamea Bellows, Paige Johnson, Brett van Bakel
 
