@@ -18,7 +18,7 @@ Coral reefs have been among the most susceptible ecosystems to the Earth’s rap
 <p align="center"> <i>
    Figure 1: (A) The amount of hard coral cover globally from 1978-2019 (solid orange line). The darker and lighter shades of orange correspond to an 80% and 95% confidence interval, respectively (Souter et al., 2020). (B) The amount of algal cover on global corals between 1986-2019 (solid blue line). The darker region of blue corresponds to an 80% confidence interval, and the outermost light blue region represents a 95% confidence interval (Souter et al., 2020). (C) Scleractinian corals in the American Samoa before (left), during (middle), and after (right) bleaching events (Credit: Ocean Agency / Ocean Image Bank). </p> </i>
 
-The negative effects on coral reef organisms then go on to impact entire ecosystems, with changing climatic conditions altering the overall community structure of reef environments (Araújo-Silva, Sarmento and Santos, 2022). This make its increasingly difficult for reef ecosystems to respond to future disturbances, and recover from the negative impacts of climate change (Hoegh-Guldberg et al., 2017). 
+The negative effects on coral reef organisms then go on to impact entire ecosystems, with changing climatic conditions altering the overall community structure of reef environments (Araújo-Silva, Sarmento and Santos, 2022). This makes it increasingly difficult for reef ecosystems to respond to future disturbances, and recover from the negative impacts of climate change (Hoegh-Guldberg et al., 2017). 
 
 ### Emergent Technologies and Future Reef Research
 
